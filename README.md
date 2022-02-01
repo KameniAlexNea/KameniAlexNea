@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KameniAlexNea
 - 👀 I’m interested in datascience and machine learning
 - 🌱 I’m currently learning machine learning with graphs, knowledge representation
-- 💞️ I’m looking to collaborate on any excited project on machine learning
+- 💞️ I’m looking to collaborate on any excited project in machine learning
 - 📫 How to reach me : kamenialexnea@gmail.com, France - les châteaux st syslvères, cergy pontoise
 
 <!---
