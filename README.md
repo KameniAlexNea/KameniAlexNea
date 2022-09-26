@@ -5,6 +5,17 @@
 - 📫 How to reach me : kamenialexnea@gmail.com
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 September 2022 - To: 25 September 2022
+
+Total Time: 1 min
+
+YAML     1 min           >>>>>>>>>>>>>>>>>>>>>----   84.74 %
+Text     0 secs          >>>>---------------------   14.91 %
+Python   0 secs          -------------------------   00.35 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
