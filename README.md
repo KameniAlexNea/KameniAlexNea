@@ -5,19 +5,6 @@
 - 📫 How to reach me : kamenialexnea@gmail.com
 
 <!--START_SECTION:waka-->
-
-```text
-From: 24 September 2022 - To: 28 September 2022
-
-Total Time: 6 hrs
-
-Python       5 hrs 43 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.45 %
-Text         7 mins          >------------------------   02.06 %
-Markdown     4 mins          -------------------------   01.12 %
-Git Config   3 mins          -------------------------   00.91 %
-YAML         1 min           -------------------------   00.45 %
-```
-
 <!--END_SECTION:waka-->
 
 <!---
