@@ -5,6 +5,15 @@
 - 📫 How to reach me : kamenialexnea@gmail.com
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 September 2022 - To: 29 September 2022
+
+Total Time: 22 hrs 49 mins
+
+Other        11 hrs 48 mins  >>>>>>>>>>>>>------------   51.72 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
