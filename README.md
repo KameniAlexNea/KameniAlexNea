@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on any excited project in machine learning
 - 📫 How to reach me : kamenialexnea@gmail.com
 
+# List of certification
+
+Please, feel free to look at my achievement [here](https://github.com/KameniAlexNea/alex-certification)
+
 <!--START_SECTION:waka-->
 
 ```text
