@@ -11,15 +11,6 @@ Please, feel free to look at my achievement [here](https://github.com/KameniAlex
 ## Working Time
 
 <!--START_SECTION:waka-->
-
-```text
-From: 24 September 2022 - To: 03 October 2022
-
-Total Time: 47 hrs 54 mins
-
-Other        20 hrs 19 mins  >>>>>>>>>>>--------------   42.44 %
-```
-
 <!--END_SECTION:waka-->
 
 <!---
