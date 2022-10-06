@@ -8,6 +8,11 @@
 
 Please, feel free to look at my achievement [here](https://github.com/KameniAlexNea/alex-certification)
 
+## Full presentation
+
+Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
+
+
 ## Working Time
 
 <!--START_SECTION:waka-->
