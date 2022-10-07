@@ -16,6 +16,16 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 ## Working Time
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 September 2022 - To: 05 October 2022
+
+Total Time: 53 hrs 20 mins
+
+Python       22 hrs 10 mins  >>>>>>>>>>---------------   41.58 %
+Other        20 hrs 19 mins  >>>>>>>>>>---------------   38.12 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
