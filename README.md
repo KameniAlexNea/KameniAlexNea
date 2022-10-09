@@ -18,12 +18,12 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 06 October 2022
+From: 24 September 2022 - To: 07 October 2022
 
-Total Time: 56 hrs 50 mins
+Total Time: 59 hrs 1 min
 
-Python       25 hrs 34 mins  >>>>>>>>>>>--------------   45.00 %
-Other        20 hrs 21 mins  >>>>>>>>>----------------   35.81 %
+Python                     27 hrs 23 mins  >>>>>>>>>>>>-------------   46.41 %
+Other                      20 hrs 21 mins  >>>>>>>>>----------------   34.49 %
 ```
 
 <!--END_SECTION:waka-->
