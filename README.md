@@ -20,9 +20,9 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## languages chart
+## Languages chart
 
-<figure><embed src="https://wakatime.com/share/@alexneakameni/d60b000c-894c-45e1-bfc5-6efa0aa46052.svg"></embed></figure>
+![](https://wakatime.com/share/@alexneakameni/d60b000c-894c-45e1-bfc5-6efa0aa46052.svg)
 
 <!---
 KameniAlexNea/KameniAlexNea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
