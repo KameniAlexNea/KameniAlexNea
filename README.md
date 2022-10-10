@@ -15,6 +15,8 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 
 ## Working Time
 
+[![wakatime](https://wakatime.com/badge/user/7d933ab2-5e72-4b60-97f8-1f7b2b0ae472.svg)](https://wakatime.com/@7d933ab2-5e72-4b60-97f8-1f7b2b0ae472)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
