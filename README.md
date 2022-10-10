@@ -22,7 +22,7 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 
 ## Languages chart
 
-[![wakatime](https://wakatime.com/share/@alexneakameni/7ee8eecd-dc7b-4d57-bf5d-6d27acef838e.svg)](https://wakatime.com/share/@alexneakameni/c0e65b16-cdab-4e9b-b8c0-db296e358795.svg)
+[![wakatime](https://wakatime.com/share/@alexneakameni/7ee8eecd-dc7b-4d57-bf5d-6d27acef838e.svg)](https://wakatime.com/@alexneakameni)
 
 <!---
 KameniAlexNea/KameniAlexNea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
