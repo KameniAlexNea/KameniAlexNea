@@ -34,6 +34,13 @@ Other                      17 hrs 49 mins  >>>>>>>------------------   27.36 %
 
 [![wakatime](https://wakatime.com/share/@alexneakameni/7ee8eecd-dc7b-4d57-bf5d-6d27acef838e.svg)](https://wakatime.com/@alexneakameni)
 
+## Activities
+![][image_ref_a32ff4ads]
+
+[image_ref_a32ff4ads]: data:https://wakatime.com/share/@alexneakameni/ff09ccc4-3a3d-4b88-b6b8-e67ee21a28c4.svg;base64,
+
+<figure><embed src="https://wakatime.com/share/@alexneakameni/ff09ccc4-3a3d-4b88-b6b8-e67ee21a28c4.svg"></embed></figure>
+
 <!---
 KameniAlexNea/KameniAlexNea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
