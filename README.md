@@ -18,6 +18,16 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 [![wakatime](https://wakatime.com/badge/user/7d933ab2-5e72-4b60-97f8-1f7b2b0ae472.svg)](https://wakatime.com/@7d933ab2-5e72-4b60-97f8-1f7b2b0ae472)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 September 2022 - To: 09 October 2022
+
+Total Time: 65 hrs 8 mins
+
+Python                     19 hrs 51 mins  >>>>>>>>-----------------   30.48 %
+Other                      17 hrs 49 mins  >>>>>>>------------------   27.36 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Languages chart
