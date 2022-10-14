@@ -17,17 +17,6 @@ Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
 
 [![wakatime](https://wakatime.com/badge/user/7d933ab2-5e72-4b60-97f8-1f7b2b0ae472.svg)](https://wakatime.com/@7d933ab2-5e72-4b60-97f8-1f7b2b0ae472)
 
-<!--START_SECTION:waka-->
-
-```text
-From: 24 September 2022 - To: 12 October 2022
-
-Total Time: 85 hrs 46 mins
-
-Other                      30 hrs 2 mins   >>>>>>>>>----------------   35.02 %
-```
-
-<!--END_SECTION:waka-->
 
 <!---
 KameniAlexNea/KameniAlexNea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
