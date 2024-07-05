@@ -10,7 +10,7 @@ Please, feel free to look at my achievement [here](https://github.com/KameniAlex
 
 ## Full presentation
 
-Who I am ? [Alex Kameni](https://sites.google.com/view/alex-kameni)
+Who I am ? [Alex Kameni](https://kamenialexnea.github.io/)
 
 
 ## Working Time
